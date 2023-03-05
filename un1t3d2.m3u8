@@ -3,4 +3,7 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://wwtastysgg.azureedge.net/live/usa/chunks.m3u8
+https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=c9a1131245c68ea05e90c92187aa058d&txTime=6404fe30
+
+
 #http://w.nasvpn.xyz:8080/live/best/best/16516.m3u8
